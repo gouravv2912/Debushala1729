@@ -1,2 +1,2 @@
 # Debushala1729
-Debugshala classes on GIT AND GITHUB
+Debugshala classes on GIT AND GITHUB.
